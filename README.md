@@ -18,8 +18,7 @@ Currently exploring **PHP, JavaScript, Java, and practical development workflows
 - 🛠 Version Control: Git & GitHub
 
 **📫 Connect with me:**
-- LinkedIn: https://linkedin.com/in/yourname
-- Twitter: https://twitter.com/yourhandle
+- LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/pratham-backend-dev/)
 
 **💡 Fun fact:** Always curious to learn new technologies and engage with the developer community!
 
