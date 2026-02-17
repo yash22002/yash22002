@@ -11,7 +11,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 - 🎓 MCA Final Year Student at **Sharda University, Greater Noida**
 - 🎓 BCA Graduate from **IIMT College, Aligarh, Uttar Pradesh**
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 - 🛒 E-commerce Website (PHP + MySQL)
 - 🤖 Python Jarvis Voice Assistant
@@ -31,7 +31,7 @@
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
 
@@ -48,7 +48,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
 
@@ -68,7 +68,7 @@
 
 ---
 
-## 📫 Connect with Me
+##  Connect with Me
 
 <p align="center">
 
@@ -84,7 +84,7 @@
 
 ---
 
-## 🧠 Current Focus
+##  Current Focus
 
 - Backend Development (PHP & Java)
 - Database Design (MySQL)
