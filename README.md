@@ -9,7 +9,8 @@ Currently exploring **PHP, JavaScript, Java, and practical development workflows
 - Exploring open-source contributions
 
 **🎓 Education:**  
-- MCA Final Year, **Sharda University, Greater Noida**
+- MCA Final Year, **Sharda University, Greater Noida**  
+- BCA, **IIMT Aligarh, Uttar Pradesh**
 
 **💻 Skills:**
 - 🌐 Web Development: C,PHP, JavaScript, HTML, CSS  
@@ -18,7 +19,7 @@ Currently exploring **PHP, JavaScript, Java, and practical development workflows
 - 🛠 Version Control: Git & GitHub
 
 **📫 Connect with me:**
-- LinkedIn: [https://linkedin.com/in/yourname](https://www.linkedin.com/in/pratham-backend-dev/)
+- LinkedIn: https://linkedin.com/in/pratham-backend-dev
 
 **💡 Fun fact:** Always curious to learn new technologies and engage with the developer community!
 
