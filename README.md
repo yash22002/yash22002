@@ -10,7 +10,7 @@ Currently exploring **PHP, JavaScript, Java, and practical development workflows
 
 **🎓 Education:**  
 - MCA Final Year, **Sharda University, Greater Noida**  
-- BCA, **IIMT Aligarh, Uttar Pradesh**
+- BCA, **IIMT College Aligarh, Uttar Pradesh**
 
 **💻 Skills:**
 - 🌐 Web Development: C,PHP, JavaScript, HTML, CSS  
