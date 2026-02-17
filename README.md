@@ -24,7 +24,6 @@ Currently exploring **PHP, JavaScript, Java, and practical development workflows
 **💡 Fun fact:** Always curious to learn new technologies and engage with the developer community!
 
 **#coding #github #learning #MCA #webdevelopment #ShardaUniversity #Java #JDBC**
-## Hi there 👋
 
 <!--
 **yash22002/yash22002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
