@@ -1,3 +1,29 @@
+# Hi, I'm Yash 👋
+
+I am an MCA final-year student at **Sharda University, Greater Noida**, passionate about coding and web technologies.  
+Currently exploring **PHP, JavaScript, Java, and practical development workflows**, building projects to improve my skills and contribute to the developer community.
+
+**🔭 I’m currently focusing on:**
+- Practicing better coding standards
+- Building small web apps and scripts
+- Exploring open-source contributions
+
+**🎓 Education:**  
+- MCA Final Year, **Sharda University, Greater Noida**
+
+**💻 Skills:**
+- 🌐 Web Development: C,PHP, JavaScript, HTML, CSS  
+- 💾 Backend: Java, JDBC  
+- 🗄 Database: MySQL  
+- 🛠 Version Control: Git & GitHub
+
+**📫 Connect with me:**
+- LinkedIn: https://linkedin.com/in/yourname
+- Twitter: https://twitter.com/yourhandle
+
+**💡 Fun fact:** Always curious to learn new technologies and engage with the developer community!
+
+**#coding #github #learning #MCA #webdevelopment #ShardaUniversity #Java #JDBC**
 ## Hi there 👋
 
 <!--
