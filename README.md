@@ -14,7 +14,7 @@
 ## 🚀 About Me
 
 - 🎓 **MCA Final Year Student** at Sharda University.
-- 💼 **Ex-ServiceNow Developer Intern** @TechSnitch.
+- 💼 **PHP Developer Intern** @MBS Group.
 - 💻 Specialized in **Backend Architecture** and **Database Management**.
 - 🤖 Passionate about **AI-driven workflows** (n8n, Vapi AI).
 - 🎯 Goal: Building robust, high-performance web applications.
