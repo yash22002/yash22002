@@ -17,7 +17,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=QA+%26+Software+Testing;Manual+%26+Automation+Testing;Selenium+WebDriver+%7C+Java;API+Testing+%7C+SQL;Software+Quality+Assurance;Learning+%26+Building+Every+Day"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=QA+%26+Software+Testing;Manual+%26+Automation+Testing;Selenium+WebDriver+%7C+Java;API+Testing+%7C+SQL;AI+Tools+%26+Automation;Software+Quality+Assurance"
     alt="Typing Animation"
   />
 </p>
@@ -36,15 +36,16 @@
 ## 👨‍💻 About Me
 
 - 🎓 **MCA Graduate** from **Sharda University** with **7.6 CGPA**.
-- 🧪 Interested in **Software Quality Assurance and Software Testing**.
+- 🧪 Strong interest in **Software Quality Assurance and Software Testing**.
 - 🔍 Building expertise in **Manual Testing and Automation Testing**.
 - 🤖 Hands-on knowledge of **Selenium WebDriver and Java**.
 - 🔌 Familiar with **API Testing, REST APIs, Jira and SQL**.
 - 📋 Knowledge of **Test Cases, Defect Reporting, SDLC and STLC**.
 - 💻 Experience in **PHP Development and ServiceNow Development** through internships.
-- 🗄️ Familiar with **MySQL, databases and backend application functionality**.
+- 🗄️ Familiar with **MySQL, databases and backend functionality**.
 - 🌐 Understanding of **HTML, CSS, JavaScript and Bootstrap**.
-- 🤖 Exploring **AI Tools and Prompt Engineering**.
+- 🤖 Exploring **AI Tools, Prompt Engineering and AI Automation**.
+- ⚙️ Exploring tools such as **Hugging Face, Vapi AI, n8n and Content Engine**.
 - 🚀 Passionate about learning new technologies and improving software quality.
 - 🎯 Currently seeking **entry-level QA / Software Testing opportunities**.
 
@@ -59,7 +60,7 @@
 Aug 2024 – Jun 2026  
 **CGPA: 7.6**
 
-Focus Areas:
+**Focus Areas:**
 - Software Quality Assurance
 - Software Development Life Cycle (SDLC)
 - Software Testing
@@ -77,22 +78,25 @@ Aug 2021 – Jun 2024
 ## 💼 Experience
 
 ### 🔹 PHP Developer Intern — Hillvestor
+
 **May 2026 – Jul 2026 | Noida, Uttar Pradesh**
 
-- Worked on PHP-based web development.
+- Worked on PHP-based web applications.
 - Worked with **PHP, MySQL and WordPress**.
 - Gained practical exposure to web application development.
 - Worked with backend functionality and database-related tasks.
 
 ### 🔹 ServiceNow Developer Intern — TechSnitch
+
 **Aug 2025 – Nov 2025 | Noida, Uttar Pradesh**
 
 - Worked with the **ServiceNow platform**.
 - Gained practical knowledge of ServiceNow development.
-- Worked with **JavaScript** and platform-based application concepts.
+- Worked with **JavaScript** and application concepts.
 - Developed understanding of real-world software development workflows.
 
 ### 🔹 Trainee — Crack-ED
+
 **Feb 2024 – Mar 2024 | Aligarh, Uttar Pradesh**
 
 - Completed Campus to Corporate Program.
@@ -137,7 +141,7 @@ Aug 2021 – Jun 2024
 
 ---
 
-<!-- TECH STACK -->
+<!-- TECHNICAL SKILLS -->
 
 ## 🛠️ Technical Skills
 
@@ -153,15 +157,21 @@ Aug 2021 – Jun 2024
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
 </p>
 
-### 🗄️ Database
+### 🗄️ Database & APIs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge" />
+
 </p>
 
-### 🔌 API & Testing Tools
+### 🔧 Development & Testing Tools
 
 <p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
@@ -171,27 +181,34 @@ Aug 2021 – Jun 2024
 
 </p>
 
-### 🔧 Development Tools
+---
+
+<!-- AI & AUTOMATION -->
+
+## 🤖 AI & Automation
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-</p>
 
-### 🤖 AI & Other Technologies
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 
-<p align="center">
+<img src="https://img.shields.io/badge/Vapi%20AI-111827?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/AI%20Tools-6366F1?style=for-the-badge" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge" />
-
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-<img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+<img src="https://img.shields.io/badge/Content%20Engine-6366F1?style=for-the-badge" />
 
 </p>
+
+### 🔥 Areas of Interest
+
+- 🤖 AI Tools & AI-powered applications
+- 🧠 Prompt Engineering
+- 🔗 AI API Integration
+- ⚙️ Workflow Automation
+- 🔄 n8n Automation
+- 🗣️ Voice AI with Vapi AI
+- 🤗 AI/ML experimentation with Hugging Face
+- 📝 AI-assisted Content Engine workflows
 
 ---
 
@@ -206,6 +223,7 @@ Aug 2021 – Jun 2024
 A full-stack web application designed to help users find and list rental rooms without involving brokers.
 
 **Key Features:**
+
 - 🏠 Rental room listing
 - 🔎 Search and filtering
 - 👤 User authentication
@@ -224,6 +242,7 @@ A full-stack web application designed to help users find and list rental rooms w
 A dynamic e-commerce platform developed using PHP and MySQL.
 
 **Key Features:**
+
 - 🛍️ Product management
 - 🔐 User authentication
 - 🛒 Shopping cart
@@ -232,6 +251,29 @@ A dynamic e-commerce platform developed using PHP and MySQL.
 - 🔄 CRUD operations
 
 **Technologies:** PHP | MySQL | HTML | CSS | JavaScript | Bootstrap
+
+---
+
+### 🤖 AI Automation & Workflow Experiments
+
+Exploring AI-powered workflows and automation using modern AI tools.
+
+**Technologies & Tools:**
+
+- 🤗 Hugging Face
+- 🎙️ Vapi AI
+- ⚙️ n8n
+- 📝 Content Engine
+- 🔗 APIs
+- 🤖 AI Tools
+
+**Areas:**
+
+- AI automation
+- Workflow automation
+- AI API integration
+- Voice AI experimentation
+- AI-assisted content workflows
 
 ---
 
@@ -245,32 +287,34 @@ A dynamic e-commerce platform developed using PHP and MySQL.
 - 🏆 **Technovation Hackathon — Sharda University**
 - 🗄️ **Databases and SQL for Data Science** — IBM
 - 💻 **LinkedIn Skill Assessment — Java**
-- 🧪 Exposure to **Software Quality Assurance and SDLC**
+- 🧪 **Software Quality Assurance & SDLC**
 
 ---
 
 <!-- RESEARCH -->
 
-## 📚 Research & Publications
+## 📚 Research & Publication
 
 ### 📄 WeLoRaD: A Novel Hybrid Ensemble Model for Early Lung Cancer Prediction
 
 **CRC Press | July 2026**
 
-Published a book chapter in **Sustainable Developments in Computer Engineering, Green Technology and Smart Systems (Volume 1)**.
+Published a book chapter in:
 
-The chapter focuses on a hybrid ensemble model for early lung cancer prediction.
+**Sustainable Developments in Computer Engineering, Green Technology and Smart Systems (Volume 1)**
+
+The research focuses on a hybrid ensemble model for early prediction.
 
 ---
 
-<!-- LEARNING -->
+<!-- CURRENTLY LEARNING -->
 
 ## 📚 Currently Learning
 
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Manual+Testing;Automation+Testing;Selenium+WebDriver;Java+for+Automation;API+Testing;SQL+%26+Database+Testing;Software+Quality+Assurance"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Manual+Testing;Automation+Testing;Selenium+WebDriver;Java+for+Automation;API+Testing;SQL+%26+Database+Testing;AI+Automation;n8n+%7C+Vapi+AI+%7C+Hugging+Face"
   alt="Learning Animation"
 />
 
@@ -289,6 +333,12 @@ The chapter focuses on a hybrid ensemble model for early lung cancer prediction.
 <img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Vapi%20AI-111827?style=for-the-badge" />
 
 </p>
 
@@ -387,5 +437,5 @@ The chapter focuses on a hybrid ensemble model for early lung cancer prediction.
 </p>
 
 <h3 align="center">
-  🧪 Testing • 🔍 Learning • 💻 Building • 🚀 Improving
+  🧪 Testing • 🤖 AI • 💻 Building • 📚 Learning • 🚀 Improving
 </h3>
