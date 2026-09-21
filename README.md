@@ -22,13 +22,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=yash22002&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-</p>
-
 ---
 
 <!-- ABOUT -->
