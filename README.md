@@ -12,12 +12,12 @@
 </h1>
 
 <h3 align="center">
-  Backend Developer | PHP | Java | Python | AI Automation
+  🎓 MCA Final-Year Student at Sharda University | 💻 C, Java, PHP, MySQL | 🌐 HTML, CSS, JavaScript | 🤖 AI Tools
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Backend+Developer;PHP+%26+Java+Developer;Python+%26+Django+Developer;REST+API+Developer;AI+Automation+Enthusiast;Building+Scalable+Web+Applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=MCA+Final-Year+Student;Java+%26+PHP+Developer;MySQL+%26+Web+Development;HTML+%26+CSS+%26+JavaScript;AI+Tools+Enthusiast;Learning+%26+Building+Every+Day"
     alt="Typing Animation"
   />
 </p>
@@ -35,20 +35,14 @@
 
 ## 👨‍💻 About Me
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=700&lines=Turning+ideas+into+working+applications;Learning+new+technologies+every+day;Focused+on+Backend+%26+Database+Development"
-    alt="About Animation"
-  />
-</p>
-
-- 🎓 **MCA Graduate** from Sharda University.
-- 💻 Backend-focused developer with hands-on experience in **PHP, Java, Python and Django**.
-- 🗄️ Strong interest in **SQL, MySQL, database design and ORM**.
-- 🔌 Experience with **CRUD applications and REST APIs**.
-- 🤖 Interested in **AI Automation, n8n and AI-powered workflows**.
-- 🔧 Comfortable with **Git, GitHub, Postman, VS Code and XAMPP**.
-- 🎯 Currently looking for an **entry-level Software / Backend Developer opportunity**.
+- 🎓 **MCA Final-Year Student** at **Sharda University**.
+- 💻 Familiar with **C, Java, PHP, MySQL, HTML, CSS and JavaScript**.
+- 🌐 Interested in **Web Development and Software Development**.
+- 🗄️ Interested in **Database Management and SQL**.
+- 🤖 Exploring **AI Tools and AI-powered applications**.
+- 🔧 Familiar with **Git, GitHub, VS Code, Postman and XAMPP**.
+- 🚀 Passionate about learning new technologies and building practical projects.
+- 🎯 Looking for opportunities to start my career in the **IT / Software Development field**.
 
 ---
 
@@ -56,11 +50,11 @@
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### 💻 Programming Languages
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=java,php,python,javascript&theme=dark" />
+<img src="https://skillicons.dev/icons?i=c,java,php&theme=dark" />
 
 </p>
 
@@ -68,7 +62,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,django&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
 
 </p>
 
@@ -76,19 +70,17 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 
 </p>
 
-### 🤖 AI & Automation
+### 🤖 AI Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Tools-6366F1?style=for-the-badge&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Vapi%20AI-111827?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/AI%20Automation-6366F1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Automation-8B5CF6?style=for-the-badge&logoColor=white" />
 
 </p>
 
@@ -108,56 +100,36 @@
 
 ### 🛒 ShopEase — E-Commerce Platform
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=58A6FF&center=true&vCenter=true&width=500&lines=PHP+%7C+MySQL+%7C+JavaScript+%7C+Bootstrap"
-    alt="Project Tech"
-  />
-</p>
-
 - 🛍️ Product and category management
 - 🔐 User authentication
 - 👨‍💼 Admin dashboard
 - 🛒 Shopping cart
 - 💳 Checkout system
-- 💰 COD and Razorpay test integration
 - 🗄️ MySQL database integration
+
+**Technologies:** PHP | MySQL | HTML | CSS | JavaScript | Bootstrap
 
 ---
 
 ### 🏠 Smart City Enabled Broker-Free Room Rental Portal
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=8B5CF6&center=true&vCenter=true&width=550&lines=PHP+%7C+MySQL+%7C+JavaScript+%7C+Web+Application"
-    alt="Project Tech"
-  />
-</p>
 
 - 🏠 Broker-free rental discovery
 - 🔎 Dynamic search and filtering
 - ⏱️ Vacancy Loss Clock
 - 📊 Broker Influence Score
 - 💰 Commission Savings Visualizer
-- 📈 Search Cost Heat Score
 - 🌆 Smart-city oriented rental solution
+
+**Technologies:** PHP | MySQL | HTML | CSS | JavaScript
 
 ---
 
-### 🤖 AI Workflow Automation
+### 🤖 AI Tools & Automation
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF6C37&center=true&vCenter=true&width=500&lines=n8n+%7C+Vapi+AI+%7C+APIs+%7C+Automation"
-    alt="AI Project Tech"
-  />
-</p>
-
-- ⚙️ Automated workflows
-- 🤖 AI-powered agents
-- 🔗 API integrations
-- 📞 Voice AI experimentation
-- 🔄 Workflow automation
+- 🤖 Exploring AI-powered tools
+- 🔗 Working with AI-based applications
+- ⚙️ Exploring automation workflows
+- 💡 Learning how AI can be integrated into software projects
 
 ---
 
@@ -165,18 +137,11 @@
 
 ## 📚 Research & Innovation
 
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=2200&pause=600&color=FBBF24&center=true&vCenter=true&width=600&lines=Research+%7C+Innovation+%7C+Technology"
-    alt="Research Animation"
-  />
-</p>
-
 - 📄 Research work in **Computer Engineering and Smart Systems**
 - 🤖 Interest in **AI-driven software solutions**
 - 🔐 Research exposure in **Cybersecurity**
 - 💡 **Design Patent — Pending**
-- 📖 Research chapter — **Pending**
+- 📖 Research Chapter — **Pending**
 
 ---
 
@@ -187,13 +152,13 @@
 <p align="center">
 
 <img
-  src="https://YOUR-GITHUB-STATS-VERCEL-APP.vercel.app/api?username=yash22002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
+  src="https://github-readme-stats.vercel.app/api?username=yash22002&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true"
   height="180"
   alt="GitHub Stats"
 />
 
 <img
-  src="https://YOUR-GITHUB-STATS-VERCEL-APP.vercel.app/api/top-langs/?username=yash22002&layout=compact&theme=tokyonight&hide_border=true"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash22002&layout=compact&theme=tokyonight&hide_border=true"
   height="180"
   alt="Top Languages"
 />
@@ -217,22 +182,6 @@
 
 ---
 
-<!--ACTIVITY GRAPH-->
-
-## 📈 Contribution Activity
-
-<p align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=yash22002&theme=tokyo-night&hide_border=true"
-  width="95%"
-  alt="GitHub Contribution Graph"
-/>
-
-</p>
-
----
-
 <!--CURRENTLY LEARNING-->
 
 ## 📚 Currently Learning
@@ -240,21 +189,9 @@
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+%26+Improving+Every+Day;Django+%7C+REST+APIs+%7C+DSA;Backend+Development+%7C+AI+Automation"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+%26+Improving+Every+Day;Java+%7C+PHP+%7C+MySQL;Web+Development;AI+Tools;Software+Development"
   alt="Learning Animation"
 />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-
-<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logoColor=white" />
-
-<img src="https://img.shields.io/badge/AI%20Automation-6366F1?style=for-the-badge&logoColor=white" />
 
 </p>
 
