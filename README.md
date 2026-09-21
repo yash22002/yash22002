@@ -412,7 +412,7 @@ The research focuses on a hybrid ensemble model for early prediction.
 
 </a>
 
-<a href="https://linkedin.com/in/yash-saxena-link">
+<a href="https://www.linkedin.com/in/yash-software-tester/">
 
 <img
   src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
