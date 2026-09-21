@@ -1,4 +1,4 @@
-<!--HEADER-->
+<!-- HEADER -->
 
 <p align="center">
   <img 
@@ -12,12 +12,12 @@
 </h1>
 
 <h3 align="center">
-  🎓 MCA Final-Year Student at Sharda University | 💻 C, Java, PHP, MySQL | 🌐 HTML, CSS, JavaScript | 🤖 AI Tools
+  QA Engineer | Manual & Automation Testing | Selenium WebDriver | Java | API Testing | SQL
 </h3>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=MCA+Final-Year+Student;Java+%26+PHP+Developer;MySQL+%26+Web+Development;HTML+%26+CSS+%26+JavaScript;AI+Tools+Enthusiast;Learning+%26+Building+Every+Day"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=QA+%26+Software+Testing;Manual+%26+Automation+Testing;Selenium+WebDriver+%7C+Java;API+Testing+%7C+SQL;Software+Quality+Assurance;Learning+%26+Building+Every+Day"
     alt="Typing Animation"
   />
 </p>
@@ -31,121 +31,270 @@
 
 ---
 
-<!--ABOUT-->
+<!-- ABOUT -->
 
 ## 👨‍💻 About Me
 
-- 🎓 **MCA Final-Year Student** at **Sharda University**.
-- 💻 Familiar with **C, Java, PHP, MySQL, HTML, CSS and JavaScript**.
-- 🌐 Interested in **Web Development and Software Development**.
-- 🗄️ Interested in **Database Management and SQL**.
-- 🤖 Exploring **AI Tools and AI-powered applications**.
-- 🔧 Familiar with **Git, GitHub, VS Code, Postman and XAMPP**.
-- 🚀 Passionate about learning new technologies and building practical projects.
-- 🎯 Looking for opportunities to start my career in the **IT / Software Development field**.
+- 🎓 **MCA Graduate** from **Sharda University** with **7.6 CGPA**.
+- 🧪 Interested in **Software Quality Assurance and Software Testing**.
+- 🔍 Building expertise in **Manual Testing and Automation Testing**.
+- 🤖 Hands-on knowledge of **Selenium WebDriver and Java**.
+- 🔌 Familiar with **API Testing, REST APIs, Jira and SQL**.
+- 📋 Knowledge of **Test Cases, Defect Reporting, SDLC and STLC**.
+- 💻 Experience in **PHP Development and ServiceNow Development** through internships.
+- 🗄️ Familiar with **MySQL, databases and backend application functionality**.
+- 🌐 Understanding of **HTML, CSS, JavaScript and Bootstrap**.
+- 🤖 Exploring **AI Tools and Prompt Engineering**.
+- 🚀 Passionate about learning new technologies and improving software quality.
+- 🎯 Currently seeking **entry-level QA / Software Testing opportunities**.
 
 ---
 
-<!--TECH STACK-->
+<!-- EDUCATION -->
 
-## 🛠️ Tech Stack
+## 🎓 Education
 
-### 💻 Programming Languages
+### Sharda University
+**Master of Computer Applications (MCA)**  
+Aug 2024 – Jun 2026  
+**CGPA: 7.6**
+
+Focus Areas:
+- Software Quality Assurance
+- Software Development Life Cycle (SDLC)
+- Software Testing
+- Software Development
+
+### IIMT College Aligarh
+**Bachelor of Computer Applications (BCA)**  
+Aug 2021 – Jun 2024  
+**Grade: 78%**
+
+---
+
+<!-- EXPERIENCE -->
+
+## 💼 Experience
+
+### 🔹 PHP Developer Intern — Hillvestor
+**May 2026 – Jul 2026 | Noida, Uttar Pradesh**
+
+- Worked on PHP-based web development.
+- Worked with **PHP, MySQL and WordPress**.
+- Gained practical exposure to web application development.
+- Worked with backend functionality and database-related tasks.
+
+### 🔹 ServiceNow Developer Intern — TechSnitch
+**Aug 2025 – Nov 2025 | Noida, Uttar Pradesh**
+
+- Worked with the **ServiceNow platform**.
+- Gained practical knowledge of ServiceNow development.
+- Worked with **JavaScript** and platform-based application concepts.
+- Developed understanding of real-world software development workflows.
+
+### 🔹 Trainee — Crack-ED
+**Feb 2024 – Mar 2024 | Aligarh, Uttar Pradesh**
+
+- Completed Campus to Corporate Program.
+- Developed professional and workplace communication skills.
+- Gained exposure to corporate professionalism and workplace readiness.
+
+---
+
+<!-- QA & TESTING -->
+
+## 🧪 QA & Software Testing
+
+### 🔍 Testing Skills
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,java,php&theme=dark" />
+<img src="https://img.shields.io/badge/Manual%20Testing-1E88E5?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Automation%20Testing-7B1FA2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Selenium%20WebDriver-43A047?style=for-the-badge&logo=selenium&logoColor=white" />
+
+<img src="https://img.shields.io/badge/API%20Testing-FF6F00?style=for-the-badge" />
 
 </p>
 
-### 🌐 Web Development
+### 📋 Testing Concepts
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript&theme=dark" />
+<img src="https://img.shields.io/badge/SDLC-37474F?style=for-the-badge" />
 
+<img src="https://img.shields.io/badge/STLC-455A64?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Test%20Cases-1565C0?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Defect%20Reporting-C62828?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Software%20Quality%20Assurance-00897B?style=for-the-badge" />
+
+</p>
+
+---
+
+<!-- TECH STACK -->
+
+## 🛠️ Technical Skills
+
+### ☕ Programming Languages
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,php,c,javascript&theme=dark" />
+</p>
+
+### 🌐 Web Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap&theme=dark" />
 </p>
 
 ### 🗄️ Database
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
 </p>
 
-### 🤖 AI Tools
+### 🔌 API & Testing Tools
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/AI%20Tools-6366F1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 
-<img src="https://img.shields.io/badge/AI%20Automation-8B5CF6?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Selenium-43A047?style=for-the-badge&logo=selenium&logoColor=white" />
 
 </p>
 
-### 🔧 Tools
+### 🔧 Development Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+</p>
+
+### 🤖 AI & Other Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+<img src="https://img.shields.io/badge/AI%20Tools-6366F1?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+
+<img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 
 </p>
 
 ---
 
-<!--PROJECTS-->
+<!-- PROJECTS -->
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
-### 🛒 ShopEase — E-Commerce Platform
+### 🏠 Room Rental Portal
 
-- 🛍️ Product and category management
-- 🔐 User authentication
-- 👨‍💼 Admin dashboard
-- 🛒 Shopping cart
-- 💳 Checkout system
-- 🗄️ MySQL database integration
+**March 2026 – April 2026**
+
+A full-stack web application designed to help users find and list rental rooms without involving brokers.
+
+**Key Features:**
+- 🏠 Rental room listing
+- 🔎 Search and filtering
+- 👤 User authentication
+- 📊 Rental-related information
+- 🗄️ Database integration
+- 🌐 Responsive web interface
 
 **Technologies:** PHP | MySQL | HTML | CSS | JavaScript | Bootstrap
 
 ---
 
-### 🏠 Smart City Enabled Broker-Free Room Rental Portal
+### 🛒 ShopEase — E-Commerce Website
 
-- 🏠 Broker-free rental discovery
-- 🔎 Dynamic search and filtering
-- ⏱️ Vacancy Loss Clock
-- 📊 Broker Influence Score
-- 💰 Commission Savings Visualizer
-- 🌆 Smart-city oriented rental solution
+**July 2025 – August 2025**
 
-**Technologies:** PHP | MySQL | HTML | CSS | JavaScript
+A dynamic e-commerce platform developed using PHP and MySQL.
 
----
+**Key Features:**
+- 🛍️ Product management
+- 🔐 User authentication
+- 🛒 Shopping cart
+- 👨‍💼 Admin functionality
+- 🗄️ MySQL database
+- 🔄 CRUD operations
 
-### 🤖 AI Tools & Automation
-
-- 🤖 Exploring AI-powered tools
-- 🔗 Working with AI-based applications
-- ⚙️ Exploring automation workflows
-- 💡 Learning how AI can be integrated into software projects
+**Technologies:** PHP | MySQL | HTML | CSS | JavaScript | Bootstrap
 
 ---
 
-<!--RESEARCH-->
+<!-- CERTIFICATIONS -->
 
-## 📚 Research & Innovation
+## 📜 Certifications & Achievements
 
-- 📄 Research work in **Computer Engineering and Smart Systems**
-- 🤖 Interest in **AI-driven software solutions**
-- 🔐 Research exposure in **Cybersecurity**
-- 💡 **Design Patent — Pending**
-- 📖 Research Chapter — **Pending**
+- 🤖 **Prompt Engineering** — Sharda University
+- 📊 **Data Visualisation using Power BI** — Sharda University
+- ⚙️ **ServiceNow Micro-Certifications**
+- 🏆 **Technovation Hackathon — Sharda University**
+- 🗄️ **Databases and SQL for Data Science** — IBM
+- 💻 **LinkedIn Skill Assessment — Java**
+- 🧪 Exposure to **Software Quality Assurance and SDLC**
 
 ---
 
-<!--GITHUB STATS-->
+<!-- RESEARCH -->
+
+## 📚 Research & Publications
+
+### 📄 WeLoRaD: A Novel Hybrid Ensemble Model for Early Lung Cancer Prediction
+
+**CRC Press | July 2026**
+
+Published a book chapter in **Sustainable Developments in Computer Engineering, Green Technology and Smart Systems (Volume 1)**.
+
+The chapter focuses on a hybrid ensemble model for early lung cancer prediction.
+
+---
+
+<!-- LEARNING -->
+
+## 📚 Currently Learning
+
+<p align="center">
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=750&lines=Manual+Testing;Automation+Testing;Selenium+WebDriver;Java+for+Automation;API+Testing;SQL+%26+Database+Testing;Software+Quality+Assurance"
+  alt="Learning Animation"
+/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Manual%20Testing-1E88E5?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Automation%20Testing-7B1FA2?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Selenium-43A047?style=for-the-badge&logo=selenium&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white" />
+
+<img src="https://img.shields.io/badge/API%20Testing-FF6C37?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+</p>
+
+---
+
+<!-- GITHUB STATS -->
 
 ## 📊 GitHub Statistics
 
@@ -167,7 +316,7 @@
 
 ---
 
-<!--STREAK-->
+<!-- STREAK -->
 
 ## 🔥 GitHub Streak
 
@@ -182,22 +331,23 @@
 
 ---
 
-<!--CURRENTLY LEARNING-->
+<!-- CONTRIBUTION GRAPH -->
 
-## 📚 Currently Learning
+## 📈 Contribution Activity
 
 <p align="center">
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=650&lines=Learning+%26+Improving+Every+Day;Java+%7C+PHP+%7C+MySQL;Web+Development;AI+Tools;Software+Development"
-  alt="Learning Animation"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yash22002&theme=tokyo-night&hide_border=true"
+  width="95%"
+  alt="GitHub Contribution Graph"
 />
 
 </p>
 
 ---
 
-<!--CONNECT-->
+<!-- CONNECT -->
 
 ## 🤝 Connect With Me
 
@@ -221,20 +371,11 @@
 
 </a>
 
-<a href="mailto:your-email@example.com">
-
-<img
-  src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-  alt="Email"
-/>
-
-</a>
-
 </p>
 
 ---
 
-<!--FOOTER-->
+<!-- FOOTER -->
 
 <p align="center">
 
@@ -246,5 +387,5 @@
 </p>
 
 <h3 align="center">
-  💻 Building • Learning • Improving 🚀
+  🧪 Testing • 🔍 Learning • 💻 Building • 🚀 Improving
 </h3>
